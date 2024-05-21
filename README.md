@@ -1,5 +1,26 @@
 # ONAIRPANEL1IP
 
+## Software Versions
+
+[V2.0.0 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V2.0.0_02-18-24.zip)
+- Improved network control capabilities and bug fixes
+
+[V1.230811 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.230811.zip)
+- Added an IP Mode that enables users to change the IP address to Static, Manual, or DHCP
+
+[V1.220527 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.220527.zip)
+- For internal housekeeping
+
+[V1.220317 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.220317.zip)
+- Added X and Y control personalities
+
+[V1.211124 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.211124.zip)
+- Released software version
+
+
+&nbsp;  
+
+
 ## USB Software Update Instructions
 1.  Power on the product and plug the flash drive into the USB port.
 2.	Once the flash drive has been detected, the message “***Upgrade Firmware***” will be displayed. Press **< ENTER >**.
@@ -40,22 +61,3 @@
 *  A Force Upload process requires a target fixture (the fixture that needs a Force Upload and a main fixture (the fixture that controls the upload process).
 *  The Force Upload process can only be done one target fixture at a time.
 
-
-&nbsp;  
-
-## Software Versions
-
-[V2.0.0 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V2.0.0_02-18-24.zip)
-- Improved network control capabilities and bug fixes
-
-[V1.230811 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.230811.zip)
-- Added an IP Mode that enables users to change the IP address to Static, Manual, or DHCP
-
-[V1.220527 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.220527.zip)
-- For internal housekeeping
-
-[V1.220317 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.220317.zip)
-- Added X and Y control personalities
-
-[V1.211124 – onAir Panel 1 IP](https://github.com/Chauvet-Pro/ONAIRPANEL1IP/blob/a6df729aeca871349566356a2cea844c765ce81f/firmware/V1.211124.zip)
-- Released software version
